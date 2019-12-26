@@ -140,9 +140,61 @@
 
 * [plugins](http://www.iqiyi.com/w_19s651zyo9.html)
 
+# Known Users
+
+按照登记顺序排序，更多接入公司，欢迎在[https://github.com/Dromara/soul/issues/68](https://github.com/Dromara/soul/issues/68)登记（仅供开源用户参考）
+
+
+<table>
+  <thead>
+    <th>广州思埠集团有限公司</th>
+    <th>上海凯京信达科技集团有限公司</th>
+    <th>上海彩贝壳科技有限公司</th>
+    <th>江苏永钢集团有限公司</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://yu199195.github.io/images/soul/users/sibu.jpg"  width="1800" height="90" alt="思埠集团"/>
+      <td><img src="https://yu199195.github.io/images/soul/users/keking.png"  width="1800" height="90" alt="凯京集团"/>
+      <td><img src="https://yu199195.github.io/images/soul/users/caibeike.png"  width="1800" height="90" alt="彩贝壳"/>
+      <td><img src="https://yu199195.github.io/images/soul/users/jiangsuyonggang.jpg"  width="1800" height="90" alt="江苏永钢集团"/>
+    </tr>
+  </tbody>
+  <thead>
+      <th>上海方付通科技有限公司 </th>
+      <th>上海理想信息产业集团有限公司</th>
+      <th>北京开普云科技有限公司</th>
+      <th>武汉颂大教育科技股份有限公司</th>
+   </thead>
+   <tbody>
+       <tr>
+         <td><img src="https://yu199195.github.io/images/soul/users/fangfutong.png"  width="1800" height="90" alt="上海方付通科技有限公司"/>
+         <td><img src="https://yu199195.github.io/images/soul/users/lixiang.jpg"  width="1800" height="90" alt="上海理想信息产业集团有限公司"/>
+         <td><img src="https://yu199195.github.io/images/soul/users/kaipuyun.png"  width="1800" height="90" alt="彩贝壳"/>
+         <td><img src="https://yu199195.github.io/images/soul/users/songda.png"  width="1800" height="90" alt="江苏永钢集团"/>
+       </tr>
+    </tbody>
+</table>
+
+
 # Support  
 
- [![芋道源码](http://www.iocoder.cn/images/common/erweima.jpg)](http://www.iocoder.cn/?from=soul) ![](https://yu199195.github.io/images/public.jpg)  ![](https://yu199195.github.io/images/soul-qq.png)   [![JetBrains](https://yu199195.github.io/images/jetbrains.svg)](https://www.jetbrains.com/?from=soul)
+<table>
+  <thead>
+    <th>芋道源码</th>
+    <th>微信公众号</th>
+    <th>QQ交流群</th>
+    <th>jetbrains</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="http://www.iocoder.cn/images/common/erweima.jpg"  width="1800" height="90" alt="思埠集团"/>
+      <td><img src="https://yu199195.github.io/images/public.jpg"  width="1800" height="90" alt="凯京集团"/>
+      <td><img src="https://yu199195.github.io/images/soul-qq.png"  width="1800" height="90" alt="彩贝壳"/>
+      <td><img src="https://yu199195.github.io/images/jetbrains.svg"  width="1800" height="90" alt="江苏永钢集团"/>
+    </tr>
+  </tbody>
+</table>
   
  
  
